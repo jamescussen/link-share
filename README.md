@@ -2,6 +2,10 @@
 
 Link Share is a Power App made specifically for Dataverse for Microsoft Teams. It is free to use with any Microsoft Teams licence without any additional Power Apps licencing required. The concept of the app is simple, share your important and relevant web links with your team in one place that is easy to access and use. This saves you from posting within the Team chat directly and having the message disappear into the post history over time. Each user can share, vote and bookmark links that have been posted. 
 
+Download the Power App zip from the Releases page here: https://github.com/jamescussen/link-share/releases
+
+For a full run down on how to install and use the App go to the blog post here: https://www.myteamslab.com/2021/11/link-share-power-app.html
+
 Below is the main Link Share interface:
 
 <p align="center">
@@ -22,3 +26,4 @@ If you select Bookmarks from the filter combo box you will see all of the links 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-ZxzvHNbMCak/YYJwq9f2TWI/AAAAAAAABeY/WYNeFSNxKmkxIgwLyUz6JpmcvEGsPWarQCLcBGAsYHQ/w640-h188/LinkShare03.png" alt="Link Share Image"/>
 </p>
+
